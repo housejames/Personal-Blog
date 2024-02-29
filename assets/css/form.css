@@ -34,3 +34,22 @@ button:hover {
     background-color: #555;
 }
 
+/* form.css */
+
+/* form.css */
+
+/* Form Styles */
+input[type="text"], textarea {
+    color: #333; /* Text color for form inputs */
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+/* Username, Blog Title, and Blog Content Styles */
+label {
+    color: #333; /* Text color for labels */
+}
