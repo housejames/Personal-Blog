@@ -32,4 +32,4 @@ my-blog
 ## Github Links
 
 - Link to my Github https://github.com/housejames
-- Link to deployed site 
+- Link to deployed site https://housejames.github.io/Personal-Blog/
